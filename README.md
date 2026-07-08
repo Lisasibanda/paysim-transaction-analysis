@@ -1,5 +1,6 @@
 # paysim-transaction-analysis
 Excel analysis of PaySim mobile money transactions — investigating volume, value, and balance data integrity across transaction types
+
 Background Story
 
 I spent almost four years in merchant onboarding and client success roles at a payments company, so transaction data and balance reconciliation issues aren't new to me. I've just never looked at them through an analyst's lens before. PaySim is synthetic data, but it's modeled on real mobile money transactions from an African context, which felt a lot closer to home than a random US bank dataset.
